@@ -1,0 +1,166 @@
+Jalan,Tipe,Zonasi,Dekat,Sedang,Jauh,Rumah,Ruko,Apartemen,Gudang,Kost,Permukiman 1,Permukiman 2,Permukiman 3,Perdagangan Jasa 1,Perdagangan Jasa 2,Perdagangan Jasa 3,Industri,Pertanian,SPU 1,SPU 2,SPU 3
+Sedang,Rumah,Industri,2,3,2,5,2,4,1,3,2,2,2,1,1,1,11,5,1,1,1
+Sedang,Ruko,Industri,2,3,2,4,5,1,3,1,2,2,2,1,1,1,11,5,1,1,1
+Sedang,Apartemen,Industri,2,3,2,4,1,5,1,3,2,2,2,1,1,1,11,5,1,1,1
+Sedang,Gudang,Industri,2,3,2,1,3,1,5,1,2,2,2,1,1,1,11,5,1,1,1
+Sedang,Kost,Industri,2,3,2,2,1,3,1,5,2,2,2,1,1,1,11,5,1,1,1
+Sedang,Rumah,Perdagangan Jasa 1,2,3,2,5,2,4,1,3,8,7,6,11,10,9,1,2,5,4,3
+Sedang,Ruko,Perdagangan Jasa 1,2,3,2,4,5,1,3,1,8,7,6,11,10,9,1,2,5,4,3
+Sedang,Apartemen,Perdagangan Jasa 1,2,3,2,4,1,5,1,3,8,7,6,11,10,9,1,2,5,4,3
+Sedang,Gudang,Perdagangan Jasa 1,2,3,2,1,3,1,5,1,8,7,6,11,10,9,1,2,5,4,3
+Sedang,Kost,Perdagangan Jasa 1,2,3,2,2,1,3,1,5,8,7,6,11,10,9,1,2,5,4,3
+Sedang,Rumah,Perdagangan Jasa 2,2,3,2,5,2,4,1,3,7,8,7,10,11,10,1,2,4,5,4
+Sedang,Ruko,Perdagangan Jasa 2,2,3,2,4,5,1,3,1,7,8,7,10,11,10,1,2,4,5,4
+Sedang,Apartemen,Perdagangan Jasa 2,2,3,2,4,1,5,1,3,7,8,7,10,11,10,1,2,4,5,4
+Sedang,Gudang,Perdagangan Jasa 2,2,3,2,1,3,1,5,1,7,8,7,10,11,10,1,2,4,5,4
+Sedang,Kost,Perdagangan Jasa 2,2,3,2,2,1,3,1,5,7,8,7,10,11,10,1,2,4,5,4
+Sedang,Rumah,Perdagangan Jasa 3,2,3,2,5,2,4,1,3,6,7,8,9,10,11,1,2,3,4,5
+Sedang,Ruko,Perdagangan Jasa 3,2,3,2,4,5,1,3,1,6,7,8,9,10,11,1,2,3,4,5
+Sedang,Apartemen,Perdagangan Jasa 3,2,3,2,4,1,5,1,3,6,7,8,9,10,11,1,2,3,4,5
+Sedang,Gudang,Perdagangan Jasa 3,2,3,2,1,3,1,5,1,6,7,8,9,10,11,1,2,3,4,5
+Sedang,Kost,Perdagangan Jasa 3,2,3,2,2,1,3,1,5,6,7,8,9,10,11,1,2,3,4,5
+Sedang,Rumah,Permukiman 1,2,3,2,5,2,4,1,3,11,10,9,6,5,4,1,3,6,5,4
+Sedang,Ruko,Permukiman 1,2,3,2,4,5,1,3,1,11,10,9,6,5,4,1,3,6,5,4
+Sedang,Apartemen,Permukiman 1,2,3,2,4,1,5,1,3,11,10,9,6,5,4,1,3,6,5,4
+Sedang,Gudang,Permukiman 1,2,3,2,1,3,1,5,1,11,10,9,6,5,4,1,3,6,5,4
+Sedang,Kost,Permukiman 1,2,3,2,2,1,3,1,5,11,10,9,6,5,4,1,3,6,5,4
+Sedang,Rumah,Permukiman 2,2,3,2,5,2,4,1,3,10,11,10,5,6,5,1,3,5,6,5
+Sedang,Ruko,Permukiman 2,2,3,2,4,5,1,3,1,10,11,10,5,6,5,1,3,5,6,5
+Sedang,Apartemen,Permukiman 2,2,3,2,4,1,5,1,3,10,11,10,5,6,5,1,3,5,6,5
+Sedang,Gudang,Permukiman 2,2,3,2,1,3,1,5,1,10,11,10,5,6,5,1,3,5,6,5
+Sedang,Kost,Permukiman 2,2,3,2,2,1,3,1,5,10,11,10,5,6,5,1,3,5,6,5
+Sedang,Rumah,Permukiman 3,2,3,2,5,2,4,1,3,9,10,11,4,5,6,1,4,4,5,6
+Sedang,Ruko,Permukiman 3,2,3,2,4,5,1,3,1,9,10,11,4,5,6,1,4,4,5,6
+Sedang,Apartemen,Permukiman 3,2,3,2,4,1,5,1,3,9,10,11,4,5,6,1,4,4,5,6
+Sedang,Gudang,Permukiman 3,2,3,2,1,3,1,5,1,9,10,11,4,5,6,1,4,4,5,6
+Sedang,Kost,Permukiman 3,2,3,2,2,1,3,1,5,9,10,11,4,5,6,1,4,4,5,6
+Sedang,Rumah,Pertanian,2,3,2,5,2,4,1,3,1,1,1,1,1,1,1,11,1,1,1
+Sedang,Ruko,Pertanian,2,3,2,4,5,1,3,1,1,1,1,1,1,1,1,11,1,1,1
+Sedang,Apartemen,Pertanian,2,3,2,4,1,5,1,3,1,1,1,1,1,1,1,11,1,1,1
+Sedang,Gudang,Pertanian,2,3,2,1,3,1,5,1,1,1,1,1,1,1,1,11,1,1,1
+Sedang,Kost,Pertanian,2,3,2,2,1,3,1,5,1,1,1,1,1,1,1,11,1,1,1
+Sedang,Rumah,SPU 1,2,3,2,5,2,4,1,3,6,5,4,6,5,4,1,2,11,10,9
+Sedang,Ruko,SPU 1,2,3,2,4,5,1,3,1,6,5,4,6,5,4,1,2,11,10,9
+Sedang,Apartemen,SPU 1,2,3,2,4,1,5,1,3,6,5,4,6,5,4,1,2,11,10,9
+Sedang,Gudang,SPU 1,2,3,2,1,3,1,5,1,6,5,4,6,5,4,1,2,11,10,9
+Sedang,Kost,SPU 1,2,3,2,2,1,3,1,5,6,5,4,6,5,4,1,2,11,10,9
+Sedang,Rumah,SPU 2,2,3,2,5,2,4,1,3,5,6,5,5,6,5,1,2,10,11,10
+Sedang,Ruko,SPU 2,2,3,2,4,5,1,3,1,5,6,5,5,6,5,1,2,10,11,10
+Sedang,Apartemen,SPU 2,2,3,2,4,1,5,1,3,5,6,5,5,6,5,1,2,10,11,10
+Sedang,Gudang,SPU 2,2,3,2,1,3,1,5,1,5,6,5,5,6,5,1,2,10,11,10
+Sedang,Kost,SPU 2,2,3,2,2,1,3,1,5,5,6,5,5,6,5,1,2,10,11,10
+Sedang,Rumah,SPU 3,2,3,2,5,2,4,1,3,4,5,6,4,5,6,1,2,9,10,11
+Sedang,Ruko,SPU 3,2,3,2,4,5,1,3,1,4,5,6,4,5,6,1,2,9,10,11
+Sedang,Apartemen,SPU 3,2,3,2,4,1,5,1,3,4,5,6,4,5,6,1,2,9,10,11
+Sedang,Gudang,SPU 3,2,3,2,1,3,1,5,1,4,5,6,4,5,6,1,2,9,10,11
+Sedang,Kost,SPU 3,2,3,2,2,1,3,1,5,4,5,6,4,5,6,1,2,9,10,11
+Jauh,Rumah,Industri,1,2,3,5,2,4,1,3,2,2,2,1,1,1,11,5,1,1,1
+Jauh,Ruko,Industri,1,2,3,4,5,1,3,1,2,2,2,1,1,1,11,5,1,1,1
+Jauh,Apartemen,Industri,1,2,3,4,1,5,1,3,2,2,2,1,1,1,11,5,1,1,1
+Jauh,Gudang,Industri,1,2,3,1,3,1,5,1,2,2,2,1,1,1,11,5,1,1,1
+Jauh,Kost,Industri,1,2,3,2,1,3,1,5,2,2,2,1,1,1,11,5,1,1,1
+Jauh,Rumah,Perdagangan Jasa 1,1,2,3,5,2,4,1,3,8,7,6,11,10,9,1,2,5,4,3
+Jauh,Ruko,Perdagangan Jasa 1,1,2,3,4,5,1,3,1,8,7,6,11,10,9,1,2,5,4,3
+Jauh,Apartemen,Perdagangan Jasa 1,1,2,3,4,1,5,1,3,8,7,6,11,10,9,1,2,5,4,3
+Jauh,Gudang,Perdagangan Jasa 1,1,2,3,1,3,1,5,1,8,7,6,11,10,9,1,2,5,4,3
+Jauh,Kost,Perdagangan Jasa 1,1,2,3,2,1,3,1,5,8,7,6,11,10,9,1,2,5,4,3
+Jauh,Rumah,Perdagangan Jasa 2,1,2,3,5,2,4,1,3,7,8,7,10,11,10,1,2,4,5,4
+Jauh,Ruko,Perdagangan Jasa 2,1,2,3,4,5,1,3,1,7,8,7,10,11,10,1,2,4,5,4
+Jauh,Apartemen,Perdagangan Jasa 2,1,2,3,4,1,5,1,3,7,8,7,10,11,10,1,2,4,5,4
+Jauh,Gudang,Perdagangan Jasa 2,1,2,3,1,3,1,5,1,7,8,7,10,11,10,1,2,4,5,4
+Jauh,Kost,Perdagangan Jasa 2,1,2,3,2,1,3,1,5,7,8,7,10,11,10,1,2,4,5,4
+Jauh,Rumah,Perdagangan Jasa 3,1,2,3,5,2,4,1,3,6,7,8,9,10,11,1,2,3,4,5
+Jauh,Ruko,Perdagangan Jasa 3,1,2,3,4,5,1,3,1,6,7,8,9,10,11,1,2,3,4,5
+Jauh,Apartemen,Perdagangan Jasa 3,1,2,3,4,1,5,1,3,6,7,8,9,10,11,1,2,3,4,5
+Jauh,Gudang,Perdagangan Jasa 3,1,2,3,1,3,1,5,1,6,7,8,9,10,11,1,2,3,4,5
+Jauh,Kost,Perdagangan Jasa 3,1,2,3,2,1,3,1,5,6,7,8,9,10,11,1,2,3,4,5
+Jauh,Rumah,Permukiman 1,1,2,3,5,2,4,1,3,11,10,9,6,5,4,1,3,6,5,4
+Jauh,Ruko,Permukiman 1,1,2,3,4,5,1,3,1,11,10,9,6,5,4,1,3,6,5,4
+Jauh,Apartemen,Permukiman 1,1,2,3,4,1,5,1,3,11,10,9,6,5,4,1,3,6,5,4
+Jauh,Gudang,Permukiman 1,1,2,3,1,3,1,5,1,11,10,9,6,5,4,1,3,6,5,4
+Jauh,Kost,Permukiman 1,1,2,3,2,1,3,1,5,11,10,9,6,5,4,1,3,6,5,4
+Jauh,Rumah,Permukiman 2,1,2,3,5,2,4,1,3,10,11,10,5,6,5,1,3,5,6,5
+Jauh,Ruko,Permukiman 2,1,2,3,4,5,1,3,1,10,11,10,5,6,5,1,3,5,6,5
+Jauh,Apartemen,Permukiman 2,1,2,3,4,1,5,1,3,10,11,10,5,6,5,1,3,5,6,5
+Jauh,Gudang,Permukiman 2,1,2,3,1,3,1,5,1,10,11,10,5,6,5,1,3,5,6,5
+Jauh,Kost,Permukiman 2,1,2,3,2,1,3,1,5,10,11,10,5,6,5,1,3,5,6,5
+Jauh,Rumah,Permukiman 3,1,2,3,5,2,4,1,3,9,10,11,4,5,6,1,4,4,5,6
+Jauh,Ruko,Permukiman 3,1,2,3,4,5,1,3,1,9,10,11,4,5,6,1,4,4,5,6
+Jauh,Apartemen,Permukiman 3,1,2,3,4,1,5,1,3,9,10,11,4,5,6,1,4,4,5,6
+Jauh,Gudang,Permukiman 3,1,2,3,1,3,1,5,1,9,10,11,4,5,6,1,4,4,5,6
+Jauh,Kost,Permukiman 3,1,2,3,2,1,3,1,5,9,10,11,4,5,6,1,4,4,5,6
+Jauh,Rumah,Pertanian,1,2,3,5,2,4,1,3,1,1,1,1,1,1,1,11,1,1,1
+Jauh,Ruko,Pertanian,1,2,3,4,5,1,3,1,1,1,1,1,1,1,1,11,1,1,1
+Jauh,Apartemen,Pertanian,1,2,3,4,1,5,1,3,1,1,1,1,1,1,1,11,1,1,1
+Jauh,Gudang,Pertanian,1,2,3,1,3,1,5,1,1,1,1,1,1,1,1,11,1,1,1
+Jauh,Kost,Pertanian,1,2,3,2,1,3,1,5,1,1,1,1,1,1,1,11,1,1,1
+Jauh,Rumah,SPU 1,1,2,3,5,2,4,1,3,6,5,4,6,5,4,1,2,11,10,9
+Jauh,Ruko,SPU 1,1,2,3,4,5,1,3,1,6,5,4,6,5,4,1,2,11,10,9
+Jauh,Apartemen,SPU 1,1,2,3,4,1,5,1,3,6,5,4,6,5,4,1,2,11,10,9
+Jauh,Gudang,SPU 1,1,2,3,1,3,1,5,1,6,5,4,6,5,4,1,2,11,10,9
+Jauh,Kost,SPU 1,1,2,3,2,1,3,1,5,6,5,4,6,5,4,1,2,11,10,9
+Jauh,Rumah,SPU 2,1,2,3,5,2,4,1,3,5,6,5,5,6,5,1,2,10,11,10
+Jauh,Ruko,SPU 2,1,2,3,4,5,1,3,1,5,6,5,5,6,5,1,2,10,11,10
+Jauh,Apartemen,SPU 2,1,2,3,4,1,5,1,3,5,6,5,5,6,5,1,2,10,11,10
+Jauh,Gudang,SPU 2,1,2,3,1,3,1,5,1,5,6,5,5,6,5,1,2,10,11,10
+Jauh,Kost,SPU 2,1,2,3,2,1,3,1,5,5,6,5,5,6,5,1,2,10,11,10
+Jauh,Rumah,SPU 3,1,2,3,5,2,4,1,3,4,5,6,4,5,6,1,2,9,10,11
+Jauh,Ruko,SPU 3,1,2,3,4,5,1,3,1,4,5,6,4,5,6,1,2,9,10,11
+Jauh,Apartemen,SPU 3,1,2,3,4,1,5,1,3,4,5,6,4,5,6,1,2,9,10,11
+Jauh,Gudang,SPU 3,1,2,3,1,3,1,5,1,4,5,6,4,5,6,1,2,9,10,11
+Jauh,Kost,SPU 3,1,2,3,2,1,3,1,5,4,5,6,4,5,6,1,2,9,10,11
+Dekat,Rumah,Industri,3,2,1,5,2,4,1,3,2,2,2,1,1,1,11,5,1,1,1
+Dekat,Ruko,Industri,3,2,1,4,5,1,3,1,2,2,2,1,1,1,11,5,1,1,1
+Dekat,Apartemen,Industri,3,2,1,4,1,5,1,3,2,2,2,1,1,1,11,5,1,1,1
+Dekat,Gudang,Industri,3,2,1,1,3,1,5,1,2,2,2,1,1,1,11,5,1,1,1
+Dekat,Kost,Industri,3,2,1,2,1,3,1,5,2,2,2,1,1,1,11,5,1,1,1
+Dekat,Rumah,Perdagangan Jasa 1,3,2,1,5,2,4,1,3,8,7,6,11,10,9,1,2,5,4,3
+Dekat,Ruko,Perdagangan Jasa 1,3,2,1,4,5,1,3,1,8,7,6,11,10,9,1,2,5,4,3
+Dekat,Apartemen,Perdagangan Jasa 1,3,2,1,4,1,5,1,3,8,7,6,11,10,9,1,2,5,4,3
+Dekat,Gudang,Perdagangan Jasa 1,3,2,1,1,3,1,5,1,8,7,6,11,10,9,1,2,5,4,3
+Dekat,Kost,Perdagangan Jasa 1,3,2,1,2,1,3,1,5,8,7,6,11,10,9,1,2,5,4,3
+Dekat,Rumah,Perdagangan Jasa 2,3,2,1,5,2,4,1,3,7,8,7,10,11,10,1,2,4,5,4
+Dekat,Ruko,Perdagangan Jasa 2,3,2,1,4,5,1,3,1,7,8,7,10,11,10,1,2,4,5,4
+Dekat,Apartemen,Perdagangan Jasa 2,3,2,1,4,1,5,1,3,7,8,7,10,11,10,1,2,4,5,4
+Dekat,Gudang,Perdagangan Jasa 2,3,2,1,1,3,1,5,1,7,8,7,10,11,10,1,2,4,5,4
+Dekat,Kost,Perdagangan Jasa 2,3,2,1,2,1,3,1,5,7,8,7,10,11,10,1,2,4,5,4
+Dekat,Rumah,Perdagangan Jasa 3,3,2,1,5,2,4,1,3,6,7,8,9,10,11,1,2,3,4,5
+Dekat,Ruko,Perdagangan Jasa 3,3,2,1,4,5,1,3,1,6,7,8,9,10,11,1,2,3,4,5
+Dekat,Apartemen,Perdagangan Jasa 3,3,2,1,4,1,5,1,3,6,7,8,9,10,11,1,2,3,4,5
+Dekat,Gudang,Perdagangan Jasa 3,3,2,1,1,3,1,5,1,6,7,8,9,10,11,1,2,3,4,5
+Dekat,Kost,Perdagangan Jasa 3,3,2,1,2,1,3,1,5,6,7,8,9,10,11,1,2,3,4,5
+Dekat,Rumah,Permukiman 1,3,2,1,5,2,4,1,3,11,10,9,6,5,4,1,3,6,5,4
+Dekat,Ruko,Permukiman 1,3,2,1,4,5,1,3,1,11,10,9,6,5,4,1,3,6,5,4
+Dekat,Apartemen,Permukiman 1,3,2,1,4,1,5,1,3,11,10,9,6,5,4,1,3,6,5,4
+Dekat,Gudang,Permukiman 1,3,2,1,1,3,1,5,1,11,10,9,6,5,4,1,3,6,5,4
+Dekat,Kost,Permukiman 1,3,2,1,2,1,3,1,5,11,10,9,6,5,4,1,3,6,5,4
+Dekat,Rumah,Permukiman 2,3,2,1,5,2,4,1,3,10,11,10,5,6,5,1,3,5,6,5
+Dekat,Ruko,Permukiman 2,3,2,1,4,5,1,3,1,10,11,10,5,6,5,1,3,5,6,5
+Dekat,Apartemen,Permukiman 2,3,2,1,4,1,5,1,3,10,11,10,5,6,5,1,3,5,6,5
+Dekat,Gudang,Permukiman 2,3,2,1,1,3,1,5,1,10,11,10,5,6,5,1,3,5,6,5
+Dekat,Kost,Permukiman 2,3,2,1,2,1,3,1,5,10,11,10,5,6,5,1,3,5,6,5
+Dekat,Rumah,Permukiman 3,3,2,1,5,2,4,1,3,9,10,11,4,5,6,1,4,4,5,6
+Dekat,Ruko,Permukiman 3,3,2,1,4,5,1,3,1,9,10,11,4,5,6,1,4,4,5,6
+Dekat,Apartemen,Permukiman 3,3,2,1,4,1,5,1,3,9,10,11,4,5,6,1,4,4,5,6
+Dekat,Gudang,Permukiman 3,3,2,1,1,3,1,5,1,9,10,11,4,5,6,1,4,4,5,6
+Dekat,Kost,Permukiman 3,3,2,1,2,1,3,1,5,9,10,11,4,5,6,1,4,4,5,6
+Dekat,Rumah,Pertanian,3,2,1,5,2,4,1,3,1,1,1,1,1,1,1,11,1,1,1
+Dekat,Ruko,Pertanian,3,2,1,4,5,1,3,1,1,1,1,1,1,1,1,11,1,1,1
+Dekat,Apartemen,Pertanian,3,2,1,4,1,5,1,3,1,1,1,1,1,1,1,11,1,1,1
+Dekat,Gudang,Pertanian,3,2,1,1,3,1,5,1,1,1,1,1,1,1,1,11,1,1,1
+Dekat,Kost,Pertanian,3,2,1,2,1,3,1,5,1,1,1,1,1,1,1,11,1,1,1
+Dekat,Rumah,SPU 1,3,2,1,5,2,4,1,3,6,5,4,6,5,4,1,2,11,10,9
+Dekat,Ruko,SPU 1,3,2,1,4,5,1,3,1,6,5,4,6,5,4,1,2,11,10,9
+Dekat,Apartemen,SPU 1,3,2,1,4,1,5,1,3,6,5,4,6,5,4,1,2,11,10,9
+Dekat,Gudang,SPU 1,3,2,1,1,3,1,5,1,6,5,4,6,5,4,1,2,11,10,9
+Dekat,Kost,SPU 1,3,2,1,2,1,3,1,5,6,5,4,6,5,4,1,2,11,10,9
+Dekat,Rumah,SPU 2,3,2,1,5,2,4,1,3,5,6,5,5,6,5,1,2,10,11,10
+Dekat,Ruko,SPU 2,3,2,1,4,5,1,3,1,5,6,5,5,6,5,1,2,10,11,10
+Dekat,Apartemen,SPU 2,3,2,1,4,1,5,1,3,5,6,5,5,6,5,1,2,10,11,10
+Dekat,Gudang,SPU 2,3,2,1,1,3,1,5,1,5,6,5,5,6,5,1,2,10,11,10
+Dekat,Kost,SPU 2,3,2,1,2,1,3,1,5,5,6,5,5,6,5,1,2,10,11,10
+Dekat,Rumah,SPU 3,3,2,1,5,2,4,1,3,4,5,6,4,5,6,1,2,9,10,11
+Dekat,Ruko,SPU 3,3,2,1,4,5,1,3,1,4,5,6,4,5,6,1,2,9,10,11
+Dekat,Apartemen,SPU 3,3,2,1,4,1,5,1,3,4,5,6,4,5,6,1,2,9,10,11
+Dekat,Gudang,SPU 3,3,2,1,1,3,1,5,1,4,5,6,4,5,6,1,2,9,10,11
+Dekat,Kost,SPU 3,3,2,1,2,1,3,1,5,4,5,6,4,5,6,1,2,9,10,11
